@@ -1,1 +1,1 @@
-# MTRPS_lab3
+# The third lab work of MTRPZ on JAVA
